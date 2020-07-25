@@ -1,0 +1,18 @@
+# This is a generated file; do not edit or check into version control.
+app_settings=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\app_settings-3.0.1\\
+cloud_firestore=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.13.7\\
+cloud_firestore_web=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore_web-0.1.1+2\\
+device_info=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\device_info-0.4.2+4\\
+firebase_auth=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.15.5+3\\
+firebase_auth_web=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth_web-0.1.3+1\\
+firebase_core=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.4.5\\
+firebase_core_web=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.1.1+2\\
+flutter_blue=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_blue-0.7.2\\
+flutter_bluetooth_serial=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_bluetooth_serial-0.2.2\\
+flutter_scan_bluetooth=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_scan_bluetooth-1.1.0\\
+path_provider_linux=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-0.0.1+2\\
+shared_preferences=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.8\\
+shared_preferences_linux=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_linux-0.0.2+1\\
+shared_preferences_macos=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_macos-0.0.1+10\\
+shared_preferences_web=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_web-0.1.2+7\\
+wifi_info_plugin=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\wifi_info_plugin-1.1.5\\
